@@ -1,0 +1,5 @@
+dist/bundle.css.map
+dist/bundle.js.map
+node_modules
+.idea
+.git
